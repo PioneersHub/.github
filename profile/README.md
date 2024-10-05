@@ -7,12 +7,15 @@ We help build and maintain thriving communities of experts in tech and research 
 ## 🙋‍♀️ Our Mission
 Driving Innovation Through Fostering Collaboration
 
-Pioneers Hub is a non-profit organization that aims to foster innovation and community synergy for a brighter future. We are a community of experts, entrepreneurs, and innovators who are passionate about creating a better future for all
+[Pioneers Hub](https://pioneershub.org/en/) is a non-profit organization that aims to foster innovation and community synergy for a brighter future. 
 
-💬🔄📚 Promotion of the exchange of knowledge  
-🌐🤖💡 Network of high-tech experts  
-🌍🤝🌈 Supporting diversity and inclusion  
-🫂🎉📅 Community-driven events  
+We are a community of experts, entrepreneurs, and innovators who are passionate about creating a better future for all.
 
-![Pioneers Hub Logo](/profile/images/Pioneers-Hub-Logo-vereinfacht-inline.svg)|
+
+👉 Promotion of the exchange of knowledge 💬🔄📚     
+👉 Network of high-tech experts 🌐🤖💡  
+👉 Supporting diversity and inclusion 🌍🤝🌈   
+👉 Community-driven events 🫂🎉📅  
+
+<a href="https://pioneershub.org/en/" target="_blank"><img src="/profile/images/Pioneers-Hub-Logo-vereinfacht-inline.svg" width="60%%"></img></a>
 
