@@ -14,4 +14,4 @@ Pioneers Hub is a non-profit organization that aims to foster innovation and com
 🌍🤝🌈 Supporting diversity and inclusion
 🫂🎉📅 Community-driven events
 
-![Pioneers Hub Logo](images/Pioneers-Hub-Logo-vereinfacht-inline.svg)
+![Pioneers Hub Logo](images/Pioneers-Hub-Logo-vereinfacht.svg)
