@@ -1,12 +1,17 @@
-## Hi there 👋
+[![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/company/pioneershub/)
 
-<!--
+## Welcome to Pioneers Hub 👋
 
-**Here are some ideas to get you started:**
+We help build and maintain thriving communities of experts in tech and research to share knowledge, collaborate and innovate together.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🙋‍♀️ Our Mission
+Driving Innovation Through Fostering Collaboration
+
+Pioneers Hub is a non-profit organization that aims to foster innovation and community synergy for a brighter future. We are a community of experts, entrepreneurs, and innovators who are passionate about creating a better future for all
+
+💬🔄📚 Promotion of the exchange of knowledge
+🌐🤖💡 Network of high-tech experts
+🌍🤝🌈 Supporting diversity and inclusion
+🫂🎉📅 Community-driven events
+
+![Pioneers Hub Logo](images/Pioneers-Hub-Logo-vereinfacht-inline.svg)
